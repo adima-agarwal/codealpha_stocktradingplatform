@@ -1,0 +1,2 @@
+Balance: 9700.0
+AAPL:2
